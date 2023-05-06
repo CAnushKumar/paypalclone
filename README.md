@@ -1,2 +1,3 @@
 # paypalclone
-![image](https://user-images.githubusercontent.com/83301588/236621358-0ec52e87-a3c8-4786-baca-efa26e26e804.png)
+![image](https://user-images.githubusercontent.com/83301588/236621378-80072165-1521-42bf-bdc6-f6b3125ee8a9.png)
+
